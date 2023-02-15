@@ -1,3 +1,4 @@
 flask>=0.12
 dynaconf>=0.6.0
 commentjson
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
