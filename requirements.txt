@@ -11,3 +11,4 @@ pymdown-extensions
 mkdocs-material
 mkdocs-git-revision-date-plugin
 Jinja2>3.0.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
