@@ -1,3 +1,4 @@
 flask>=1.0
 dynaconf>=0.5.3
 PyYAML
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
